@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  I love building tools to solve the little problems in my day-to-day and bridging the gap between code and good design—making sure things not only work well, but look great too.
+  I love building tools to solve the little problems in my day-to-day and bridging the gap between code and good design, making sure things not only work well, but look great too.
 </p>
 
 ---
